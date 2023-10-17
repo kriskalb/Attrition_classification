@@ -15,12 +15,12 @@ The primary goals of this project are:
   - Logistic Regression
   - Decision Trees
   - Random Forest
-  - Support Vector Machines (SVM)
+  - XGBoost Classifier
+  - Cross Validation of models above
 
 ## Technologies Used
 The project was developed using the following technologies and tools:
 - Python: Python was the primary programming language used for data analysis, preprocessing, and modeling.
-- TensorFlow: TensorFlow was employed for building and training machine learning models.
 - scikit-learn: scikit-learn library was used for data preprocessing and implementing classification models.
 - pandas: pandas library was utilized for data manipulation and analysis.
 
