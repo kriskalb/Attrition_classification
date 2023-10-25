@@ -1,7 +1,7 @@
 # Employee Attrition Prediction
 
 ## Overview
-The Employee Attrition Prediction project focuses on predicting employee attrition by employing data cleaning, preprocessing, and various classification models. We have analyzed employee data, cleaned and prepared it for modeling, and applied several machine learning algorithms, including logistic regression, decision trees, random forest, and Support Vector Machines (SVM), to predict employee attrition.
+The Employee Attrition Prediction project focuses on predicting employee attrition by employing data cleaning, preprocessing, and various classification models. We have analyzed employee data, cleaned and prepared it for modeling, and applied several machine learning algorithms, including logistic regression, decision trees, random forest, xgboost, cross validation to predict employee attrition.
 
 ## Project Goals
 The primary goals of this project are:
